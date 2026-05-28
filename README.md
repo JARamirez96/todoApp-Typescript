@@ -1,16 +1,21 @@
 # Todo APP
 
-## **Description**
+Similar to the previously developed TodoApp, this was created to enhance my programming skills by working with TypeScript and Tailwind CSS.
 
-## **Used Technologies**
+## Description
+
+An application where users can track and manage their tasks, with the option of adding the category to each one, as well as filtering them by date, category, or status. It supports basic _CRUD_ operations.
+
+## Used Technologies
 
 - React
 - React Hooks Form
 - React Router
-- Typescript
+- TypeScript
 - Tailwind CSS
 - Shadcn UI
 - Zustand
+- Zod
 
 ## Steps for initialization
 
